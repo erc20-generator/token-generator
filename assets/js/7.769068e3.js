@@ -79,7 +79,7 @@
                 r("li", [
                   r(
                     "a",
-                    { attrs: { href: "https://bep20.github.io/solana-generator/", target: "_blank", rel: "noopener noreferrer" } },
+                    { attrs: { href: "https://www.createmytoken.online/solana-token-creator/spl-token/", target: "_blank", rel: "noopener noreferrer" } },
                     [t._v("Create Solana Token"), r("OutboundLink")],
                     1
                   ),
