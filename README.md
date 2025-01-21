@@ -8,7 +8,7 @@ actionLink: /docs/
 navbar: true
 meta: 
     - property: og:url
-      content: https://bep20.github.io/
+      content: https://bep20.github.io
     - property: og:title
       content: Token Generator | Create your own ERC20 or BEP20 Token
     - property: og:description
